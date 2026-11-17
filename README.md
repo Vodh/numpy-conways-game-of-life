@@ -35,7 +35,7 @@ pip install numpy ipython
 Run:
 
 ```bash
-python game_of_life.py
+python main.ipynb
 ```
 
 ## Learning Goals
